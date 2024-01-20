@@ -1,4 +1,4 @@
-javascript gurrrr
+might do some chat triggers stuff
 
 <!---
 NazD11/NazD11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
